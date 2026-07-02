@@ -1,0 +1,2 @@
+2026-07-03 00:41:00,612 - INFO - trading_bot - Request: symbol=BTCUSDT side=BUY type=LIMIT quantity=0.001 price=50000.0
+2026-07-03 00:41:03,269 - INFO - trading_bot - Response: {'order_id': 18546239689, 'status': 'NEW', 'executed_qty': '0.0000', 'executed_price': '50000.00'}
