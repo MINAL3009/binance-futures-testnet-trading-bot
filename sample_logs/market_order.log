@@ -1,0 +1,2 @@
+2026-07-03 00:37:33,030 - INFO - trading_bot - Request: symbol=BTCUSDT side=BUY type=MARKET quantity=0.001 price=None
+2026-07-03 00:37:35,092 - INFO - trading_bot - Response: {'order_id': 18545708075, 'status': 'FILLED', 'executed_qty': '0.0010', 'executed_price': 'Market Price'}
